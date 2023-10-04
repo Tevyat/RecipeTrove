@@ -1,6 +1,5 @@
 from sqlite3 import connect
 from customtkinter import *
-from pyautogui import size
 from tkinter import messagebox
 
 # For packaging, swap <iconname> with the name of the icon
